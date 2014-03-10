@@ -1,0 +1,53 @@
+.name{
+	color: white;
+	background-color: #000;
+	opacity: .5;
+	background-image: url("../images/bg.png");
+}
+
+#about-me{
+	background-image: url("../images/bg.png");
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	background-size: cover;
+	height: 600;
+}
+.text-white{
+	color: #fff;
+}
+#education{
+	background-image: url("../images/dlsu/dlsu-pano.jpg");
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	background-size: cover;
+	height: 600;
+}
+#skills{
+	background-image: url("../images/dlsu/dlsu-pano.jpg");
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	background-size: cover;
+	height: 600;
+}
+#works{
+	background-image: url("../images/mymuseum/bg.png");
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	background-size: cover;
+	height: 500;
+}
+#awards1{
+	background-image: url("../images/charge/MainMenuBackground4x.png");
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	background-size: cover;
+	height: 500;
+}
+#awards2{
+	background-image: url("../images/ltt/2.png");
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	background-size: cover;
+	height: 550;
+
+}
